@@ -1,0 +1,27 @@
+.wrap{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap:20px;
+    background-color: bisque;
+    padding: 60px;
+    width: 240px;
+    margin: auto;
+    border-radius: 20%;
+}
+/* 
+.wrap-item{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.wrap-item:nth-child(1){
+    background-color: red;
+}
+.wrap-item:nth-child(2){
+    background-color: yellow;
+}
+.wrap-item:nth-child(3){
+    background-color: green;
+} */
